@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -28,7 +28,7 @@
 			<p>Multi-disciplinary <strong>Designer & Director</strong> focused on the intersection of <strong>brand</strong> and <strong>product design</strong>.</p>
 			<p>I create dynamic design systems for products and services through experimentation, analytic thinking and <strong>user-centred design</strong> approach.</p>
 			<!--<a href="http://www.fahrenheit-212.com/">@Fahrenheit212</a>-->
-			<p>Currently Design Director in London, formerly Senior VD <a href="http://www.rga.com/">@R/GA</a> and <a href="http://www.frogdesign.com/">@Frogdesign</a></p>
+			<p>Currently Design Director in London, formerly Senior VD @R/GA and @Frogdesign</p>
 		</main>
 		<footer class="footer">
 			<!--<a href="https://twitter.com/914k" target="_blank">
