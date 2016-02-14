@@ -11,6 +11,7 @@ body {
 	letter-spacing: 0.025em;
 	background-color: #f8f8f8;
 	-webkit-font-smoothing: antialiased;
+	padding: 0 50px;
 }
 
 a, a:visited {
@@ -21,7 +22,6 @@ a, a:visited {
 a:hover {
 	color: #000000;
 }
-
 
 strong {
 	font-weight: 700;
@@ -39,6 +39,13 @@ p {
 	margin: 50px auto;
 	max-width: 500px;
 }
+
+/*@media screen and (max-width: 759px) {
+	.content {
+		margin: 50px auto;
+		max-width: 500px;
+	}
+}*/
 
 footer a {
 	display: block;
