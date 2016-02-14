@@ -6,7 +6,7 @@
 <g id="Layer_2">
 </g>
 <g id="Layer_1">
-	<rect width="225" height="224.999"/>
+	<circle cx="112.5" cy="112.5" r="112.5"/>
 	<circle cx="112.5" cy="112.5" r="112.5"/>
 	<rect x="80.073" y="74.5" fill="#FFFFFF" width="66" height="18"/>
 	<polygon fill="#FFFFFF" points="146.073,104.5 98.073,104.5 80.073,104.5 80.073,122.5 80.073,152.5 98.073,152.5 98.073,122.5 
