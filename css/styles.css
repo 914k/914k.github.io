@@ -103,8 +103,8 @@ p {
 
 .site-title_logo {
 	display: block;
-	width: 107px;
-	height: 107px;
+	width: 80px;
+	height: 80px;
 }
 
 .layout {
@@ -121,7 +121,7 @@ p {
 		position: fixed;
 		left: 33.33vw;
 		width: 100%;
-		max-width: 470px;
+		max-width: 500px;
 		pointer-events: none;
 	}
 
@@ -161,7 +161,7 @@ p {
 }
 
 .content-section {
-	margin-bottom: 3em;
+	margin-bottom: 1em;
 }
 
 /*.content-section_link {
@@ -192,12 +192,12 @@ p {
 		height: 80%;
 	}*/
 
-/*.site-footer_link {
-	display: inline-block;
+.site-footer_link {
+	display: block;
 	text-decoration: none;
 }
 
-	.site-footer_link .icon {
+/*	.site-footer_link .icon {
 		display: block;
 	}
 
