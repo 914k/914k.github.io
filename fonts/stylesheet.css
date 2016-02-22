@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'SofiaPro';
+	src: url('SofiaProBold.eot');
+	src: url('SofiaProBold.eot?#iefix') format('embedded-opentype'),
+		url('SofiaProBold.woff') format('woff'),
+		url('SofiaProBold.ttf') format('truetype'),
+		url('SofiaProBold.svg#SofiaProBold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
