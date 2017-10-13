@@ -10,7 +10,7 @@ body {
 	line-height: 1;
 	background-color: #d2d2d2;
 	-webkit-font-smoothing: antialiased;
-	padding: 30px 36px;
+	padding: 28px 34px;
 }
 
 @media screen and (max-device-width: 640px) {
